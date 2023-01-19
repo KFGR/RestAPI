@@ -1,5 +1,5 @@
 # Description
-Rest API created in python using the framework called FastAPI. For this project, in addition to python, MySQL is also used as a database for testing.
+Rest API created in python using the framework called FastAPI and MySQL as database. The main goal of the project is to be able to retrieve data from the database by a series of functions, so that the customer does not have to manage the database directly.
 
 ## Requirements
 - Have python in your device
