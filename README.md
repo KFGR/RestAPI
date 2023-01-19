@@ -9,5 +9,19 @@ First restAPI coded in python using FastAPI
 - Create a virtual environment inside a folder
 ```terminal
 python3 -m venv /path/to/new/virtual/environment
+source /path/to/venv/bin/activate
 ```
+
+- Run venv in Windows
+```terminal
+myenv\Scripts\activate.bat
+
+```
+- Run venv in MacOS
+```terminal
+source myenv/bin/activate
+```
+
+
+
 
