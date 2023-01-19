@@ -22,6 +22,17 @@ myenv\Scripts\activate.bat
 source myenv/bin/activate
 ```
 
+- Install all requirements from requirements.txt
+```python
+pip install -r requirements.txt
+```
 
+- Create a user in you MySQL workbench or through the terminal, click in the link for more instructions
+[MySQL documentation] (https://dev.mysql.com/doc/refman/8.0/en/)
+
+- After downloading everything, run the following command to start the server
+```python
+uvicorn main:app --reload
+```
 
 
