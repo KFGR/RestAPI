@@ -1,5 +1,5 @@
-# RestAPI
-First restAPI coded in python using FastAPI
+# Description
+Rest API created in python using the framework called FastAPI. For this project, in addition to python, MySQL is also used as a database for testing.
 
 ## Requirements
 - Have python in your device
